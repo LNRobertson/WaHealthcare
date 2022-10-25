@@ -22,7 +22,7 @@ Table of Contents
 ------------
 - [Project Intro/Objective](#project-introobjective)
 - [Project Organization](#project-organization)
-  * [Data](#data)
+
 
 Project Organization
 ------------
