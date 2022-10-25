@@ -1,6 +1,6 @@
 # WaHealthcare
 
-Preidcting provider complaints. 
+Preidcting provider complaints with public data. 
 
 
 #### -- Project Status: [Active / InProgress] 
