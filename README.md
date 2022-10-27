@@ -12,7 +12,7 @@
 
 ## Project Intro/Objective
 
-Preidcting provider complaints with public data. 
+Preidcting provider complaints with public data. Worked with a group as part of an MLOps incubator course. 
 
 <br>
 
